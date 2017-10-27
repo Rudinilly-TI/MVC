@@ -1,0 +1,17 @@
+{
+    "name": "mvc/mvc",
+    "description": "Projeto MVC",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Rudinilly",
+            "email": "rudinilly123@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    "psr-4":{
+    "App\\": "/vendor/"
+        }
+    }
+}
