@@ -1,5 +1,5 @@
 <?php
-use Asw\Database;
+require '../Config/Config.php';
 
-$con = new Database;
+$con = new Asw\Database\Conection;
 
